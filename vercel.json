@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    {"source": "/(.*)", "destination": "https://de.practicevocab.tk/$1"}
+  ]
+}
