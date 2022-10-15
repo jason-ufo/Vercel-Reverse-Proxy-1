@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://de.practicevocab.tk/$1"}
+    {"source": "/(.*)", "destination": "http://de.practicevocab.tk/$1"}
   ]
 }
